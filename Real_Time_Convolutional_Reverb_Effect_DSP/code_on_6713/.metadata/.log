@@ -1,0 +1,58 @@
+!SESSION 2018-04-20 17:46:14.423 -----------------------------------------------
+eclipse.buildId=4.2.4.00033
+java.version=1.5.0_14
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-20 17:47:23.561
+!MESSAGE Error: TMS320C671X: Error initializing emulator 
+
+!SESSION 2018-04-20 23:15:42.649 -----------------------------------------------
+eclipse.buildId=4.2.4.00033
+java.version=1.5.0_14
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-04-20 23:15:47.428
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2018-04-21 14:09:53.027 -----------------------------------------------
+eclipse.buildId=4.2.4.00033
+java.version=1.5.0_14
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-21 14:11:32.746
+!MESSAGE Error: TMS320C671X: Error initializing emulator 
+
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-21 17:12:29.237
+!MESSAGE Error: TMS320C671X: Power Failure on Target CPU 
+
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-21 17:12:29.291
+!MESSAGE Error: TMS320C671X: Failed to remove the debug state from the target before disconnecting.  There may still be breakpoint op-codes embedded in program memory.  It is recommended that you reset the emulator before you connect and reload your program before you continue debugging
+
+!SESSION 2018-04-23 11:33:33.132 -----------------------------------------------
+eclipse.buildId=4.2.4.00033
+java.version=1.5.0_14
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-04-23 11:33:37.003
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-23 16:51:27.903
+!MESSAGE Error: TMS320C671X: Error initializing emulator 
+
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-23 16:51:50.648
+!MESSAGE Error: TMS320C671X: Error initializing emulator 
+
+
+!ENTRY com.ti.ccstudio.debug.core 4 0 2018-04-23 16:51:57.891
+!MESSAGE Error: TMS320C671X: Error initializing emulator 
+
